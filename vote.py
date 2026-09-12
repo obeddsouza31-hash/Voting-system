@@ -1,6 +1,6 @@
 age = int(input("Enter your age: "))
 
 if age >= 18:
-    print("Eligible to vote")
+    print("you are a good person")
 else:
-    print("Not eligible to vote")
+    print("get lost go back home")
